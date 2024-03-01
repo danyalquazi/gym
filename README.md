@@ -32,5 +32,6 @@ Instructions on setting up the project locally.
 ### Prerequisites
 
 - List any software or dependencies that need to be installed.
-
+### File description 
+- List all the file present in the repository with a short description. will help us later to understand what a file is doing.
 ### Installation
