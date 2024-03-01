@@ -1,4 +1,4 @@
-# Project Name
+# Gym Management
 
 This project presents a planning and documentation of a system for a gym that has the idea of allowing customers to book services offered by the gym and follow their performance
 
